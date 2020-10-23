@@ -16,3 +16,7 @@ print(permute(2, ["a","b","c"]))
 #['a', 'b', 'c']
 #['aa', 'ab', 'ac', 'ba', 'bb', 'bc', 'ca', 'cb', 'cc']
 #Contributed by The-N3rd. Thank you.
+
+
+# akash pant
+print('Happy Birthday Vinamra')
